@@ -1,0 +1,123 @@
+/* App.css */
+* { 
+	margin: 0; 
+	padding: 0; 
+	box-sizing: border-box; 
+} 
+
+body { 
+	font-family: Arial, sans-serif; 
+	background-color: #c6538c; 
+	margin: 0; 
+	padding: 0; 
+	color: #333; 
+} 
+
+header { 
+	background-color:  #d98cb3; 
+	color: #ffffff; 
+	text-align: center; 
+	padding: 1rem 0; 
+	box-shadow: 0 4px 18px  #993366; 
+} 
+
+main { 
+	max-width: 800px; 
+	margin: 20px auto; 
+	padding: 20px; 
+	background-color: #d98cb3; 
+	box-shadow: 0 4px 18px #602040; 
+	border-radius: 15px; 
+} 
+
+.task-form { 
+	display: flex; 
+	flex-wrap: wrap; 
+	gap: 10px; 
+	margin-bottom: 20px; 
+} 
+
+.task-form input, 
+.task-form select, 
+.task-form button { 
+	padding: 10px; 
+	border: 1px solid #ccc; 
+	font-size: 16px; 
+	flex: 1; 
+	border-radius: 10px; 
+} 
+
+button { 
+	background-color: #ac3973; 
+	color: white; 
+	border: none; 
+	cursor: pointer; 
+} 
+
+.mark-done { 
+	padding: 10px; 
+	font-size: 16px; 
+	flex: 1; 
+	border-radius: 15px; 
+	background-color:  #d279a6; 
+	color: white; 
+	border: none; 
+	cursor: pointer; 
+} 
+
+.task-list { 
+	border: 1px solid  #f2d9e6; 
+	padding: 10px; 
+} 
+
+table { 
+	width: 100%; 
+	margin-top: 20px; 
+	background-color: #ecc6d9; 
+	border: 1px solid #b01663; 
+} 
+
+table th, 
+table td { 
+	padding: 19px; 
+	border-bottom: 1px solid #ecc6d9; 
+	text-align: left; 
+} 
+
+table th { 
+	background-color: #eee; 
+	color: black; 
+	border-radius: 10px; 
+} 
+
+.completed-task-list { 
+	margin-top: 20px; 
+} 
+
+.completed-task { 
+	padding: 10px; 
+	border: 1px solid #d98cb3; 
+	border-radius: 5px; 
+	background-color: #e6b3cc ; 
+} 
+
+.completed-task h2 { 
+	color: #bf4080; 
+} 
+
+h2 { 
+	font-size: 1.3rem; 
+} 
+
+h1 {
+  color: white;
+  text-shadow: 2px 2px 5px #73264d;
+}
+
+.heading { 
+	padding-bottom: 10px; 
+} 
+
+.cheading { 
+	color: rgb(54, 54, 54); 
+}
