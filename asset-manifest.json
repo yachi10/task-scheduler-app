@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yachi10/task-scheduler-app.git/static/css/main.19766cea.css",
+    "main.js": "/yachi10/task-scheduler-app.git/static/js/main.52f81728.js",
+    "static/js/453.f8f4e3b0.chunk.js": "/yachi10/task-scheduler-app.git/static/js/453.f8f4e3b0.chunk.js",
+    "index.html": "/yachi10/task-scheduler-app.git/index.html",
+    "main.19766cea.css.map": "/yachi10/task-scheduler-app.git/static/css/main.19766cea.css.map",
+    "main.52f81728.js.map": "/yachi10/task-scheduler-app.git/static/js/main.52f81728.js.map",
+    "453.f8f4e3b0.chunk.js.map": "/yachi10/task-scheduler-app.git/static/js/453.f8f4e3b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19766cea.css",
+    "static/js/main.52f81728.js"
+  ]
+}
